@@ -1,0 +1,4 @@
+deluge_client
+Flask
+gevent
+gunicorn
